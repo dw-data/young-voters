@@ -1,6 +1,6 @@
 # Where can young voters swing the EU election?
 
-You can read the story [here]()
+You can read the story [here](https://p.dw.com/p/3IrU4)
 
 Idea, data analysis, basic research: [Gianna-Carina Grün](https://twitter.com/giannagruen)
 
