@@ -3,6 +3,7 @@
 You can read the story [here]()
 
 Idea, data analysis, basic research: [Gianna-Carina Grün](https://twitter.com/giannagruen)
+
 Research, interviews and writing: [Maximiliane Koschyk](https://twitter.com/maxkoschyk)
 
 # Definitions
