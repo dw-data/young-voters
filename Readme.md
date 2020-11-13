@@ -6,9 +6,11 @@ Idea, data analysis, basic research: [Gianna-Carina Grün](https://twitter.com/g
 
 Research, interviews and writing: [Maximiliane Koschyk](https://twitter.com/maxkoschyk)
 
+*Correction November 13, 2020: A previous version of this analysis incorrectly put the upper age limit for first time voters in all countries at 22 years. However, this is not true for Austria, where the upper age limit for "first time voters" is max 20 years.*
+
 # Definitions
 
-First time voters are people of 22 years of age (upper limit) or younger. The lower limit depends the voting age in different countries. For the majority of member states people are eligible to vote once they are 18 years old; exceptions are Greece (voting age is 17) and Malta and Austria (voting age is 16).
+First time voters are people of 22 years of age (in all EU countries except for Austria where it is 20 years) or younger. The lower limit depends the voting age in different countries. For the majority of member states people are eligible to vote once they are 18 years old; exceptions are Greece (voting age is 17) and Malta and Austria (voting age is 16).
 
 Source voting ages: [European Parliament](http://www.europarl.europa.eu/RegData/etudes/ATAG/2018/623556/EPRS_ATA(2018)623556_EN.pdf)
 
@@ -29,5 +31,5 @@ Therefore, what it matters to include people in the 'usually resident population
 First-time voters make up between 5 to 8 percent of the voting age population.
 Looking at voters aged 30 or younger, they make up between 15 to 23 percent of the voting age population.
 
-![chart-share-young-voters](charts/124-EN-Share_YoungVoters-01.png)
+![chart-share-young-voters](charts/124-EN-Share_YoungVoters-NEW-01.png)
 
